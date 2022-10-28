@@ -1,4 +1,4 @@
 # innil-macros
-Some macros I have made.
+Some macros I have made (obtained).
 
-If a module is required it's listed in the macro.
+If a module is required for a macro to work, it should be listed in the macro.
