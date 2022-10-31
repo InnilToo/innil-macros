@@ -1,4 +1,5 @@
-// toggle hidden door
+// Toggles the open/closed state of hidden door.
+
 const wallIds = ["hiddenDoorId"];   // replace the hiddenDoorId with an ID of a hidden door, can enter multiple IDs each in "" separated by , ["id1", "id2", "id3"]
 const { CLOSED, OPEN } = CONST.WALL_DOOR_STATES;
 const { SECRET } = CONST.WALL_DOOR_TYPES;
